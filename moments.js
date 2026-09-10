@@ -51,7 +51,7 @@ const MOMENTS = [
   {
     id: "first-msg",
     type: "image",
-    file: "First_msg.png",
+    file: "first_msg.png",
     title: "The First DM",
     caption: "The official start of the lore 💬✨ From a simple text asking if you were coming online to play Valorant, to talking every single day. The DM where it all started.",
     date: "January 26, 2025",
@@ -125,7 +125,7 @@ Good Night!!!`
 
   {
     type: "image",
-    file: "valentine_website.png",
+    file: "Valentine_website.png",
     date: "14 February 2026",
     caption: "Our first Valentine's Day. You built a whole website just to ask me to be your Valentine... absolutely unmatched effort. 🥹💌",
     mood: "soft"
