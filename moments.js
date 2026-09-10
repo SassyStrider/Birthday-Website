@@ -125,7 +125,7 @@ Good Night!!!`
 
   {
     type: "image",
-    file: "media/valentine_website.png",
+    file: "valentine_website.png",
     date: "14 February 2026",
     caption: "Our first Valentine's Day. You built a whole website just to ask me to be your Valentine... absolutely unmatched effort. 🥹💌",
     mood: "soft"
